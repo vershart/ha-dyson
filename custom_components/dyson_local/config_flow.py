@@ -133,6 +133,7 @@ CLOUD_PRODUCT_TYPE_TO_DEVICE_TYPE = {
     # Purifier Humidify+Cool models (newer) - specific model mappings for better compatibility
     "PH03": DEVICE_TYPE_PURIFIER_HUMIDIFY_COOL_K,  # PH03 typically K series
     "PH04": DEVICE_TYPE_PURIFIER_HUMIDIFY_COOL_K,  # PH04 typically K series
+    "PH05": DEVICE_TYPE_PURIFIER_HUMIDIFY_COOL_K,  # PH05 typically K series
     # Variant combinations for Humidify+Cool series
     "358K": DEVICE_TYPE_PURIFIER_HUMIDIFY_COOL_K,
     "358E": DEVICE_TYPE_PURIFIER_HUMIDIFY_COOL_E,
